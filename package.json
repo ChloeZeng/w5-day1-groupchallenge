@@ -1,0 +1,23 @@
+{
+  "name": "w5-day1-groupchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChloeZeng/w5-day1-groupchallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChloeZeng/w5-day1-groupchallenge/issues"
+  },
+  "homepage": "https://github.com/ChloeZeng/w5-day1-groupchallenge#readme",
+  "dependencies": {
+    "mongoose": "^9.3.3"
+  }
+}
